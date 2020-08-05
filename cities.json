@@ -1,0 +1,300 @@
+{
+    "Ampara": {
+        "cities": [
+            "Ampara", 
+            "Akkarepattu", 
+            "Kalmunai", 
+            "Sainthamaruthu"
+        ]
+    },
+    "Anuradhapura": {
+        "cities": [
+            "Anuradhapura", 
+            "Kekirawa", 
+            "Tambuttegama", 
+            "Medawachchiya", 
+            "Eppawala",
+            "Galenbindunuwewa", 
+            "Galnewa", 
+            "Habarana", 
+            "Mihintale", 
+            "Nochchiyagama", 
+            "Talawa"
+        ]
+    },
+    "Badulla": {
+        "cities": [
+            "Badulla", 
+            "Bandarawela", 
+            "Welimada", 
+            "Mahiyanganaya", 
+            "Hali Ela",
+            "Diyatalawa", 
+            "Ella", 
+            "Haputale", 
+            "Passara"
+        ]
+    },
+    "Batticaloa": {
+        "cities": [
+            "Batticaloa"
+        ]
+    },
+    "Colombo": {
+        "cities": [
+           "Angoda",
+           "Athurugiriya",
+           "Avissawella",
+           "Battaramulla",
+           "Boralesgamuwa",
+           "Colombo 1",
+           "Colombo 10",
+           "Colombo 11",
+           "Colombo 12",
+           "Colombo 13",
+           "Colombo 14",
+           "Colombo 15",
+           "Colombo 2",
+           "Colombo 3",
+           "Colombo 4",
+           "Colombo 5",
+           "Colombo 6",
+           "Colombo 7",
+           "Colombo 8",
+           "Colombo 9",
+           "Dehiwala",
+           "Hanwella",
+           "Homagama",
+           "Kaduwela",
+           "Kesbewa",
+           "Kohuwala",
+           "Kolonnawa",
+           "Kottawa",
+           "Kotte",
+           "Maharagama",
+           "Malabe",
+           "Moratuwa",
+           "Mount Lavinia",
+           "Nawala",
+           "Nugegoda",
+           "Padukka",
+           "Pannipitiya",
+           "Piliyandala",
+           "Rajagiriya",
+           "Ratmalana",
+           "Talawatugoda",
+           "Wellampitiya"
+       ]
+    },
+    "Galle": {
+        "cities": [
+            "Galle", 
+            "Ambalangoda", 
+            "Elpitiya", 
+            "Hikkaduwa", 
+            "Baddegama",
+            "Ahangama", 
+            "Batapola", 
+            "Bentota", 
+            "Karapitiya"
+        ]
+    },
+    "Gampaha": {
+        "cities": [
+            "Gampaha", 
+            "Negombo", 
+            "Kelaniya", 
+            "Kadawatha", 
+            "Ja-Ela",
+            "Delgoda", 
+            "Divulapitiya", 
+            "Ganemulla", 
+            "Kandana", 
+            "Katunayake", 
+            "Kiribathgoda", 
+            "Minuwangoda", 
+            "Mirigama", 
+            "Nittambuwa", 
+            "Ragama", 
+            "Veyangoda", 
+            "Wattala"
+        ]
+    },
+    "Hambantota": {
+        "cities": [
+            "Tangalla", 
+            "Beliatta", 
+            "Tissamaharama", 
+            "Hambantota", 
+            "Ambalantota"
+        ]
+    },
+    "Jaffna": {
+        "cities": [
+            "Jaffna", 
+            "Nallur", 
+            "Chavakachcheri"
+        ]
+    },
+    "Kalutara": {
+        "cities": [
+            "Kalutara", 
+            "Horana", 
+            "Panadura", 
+            "Matugama", 
+            "Bandaragama",
+            "Alutgama", 
+            "Beruwala", 
+            "Ingiriya", 
+            "Wadduwa"
+        ]
+    }, 
+    "Kandy": {
+        "cities": [
+            "Kandy", 
+            "Katugastota", 
+            "Gampola", 
+            "Peradeniya", 
+            "Kundasale",
+            "Akurana", 
+            "Ampitiya", 
+            "Digana", 
+            "Galagedara", 
+            "Gelioya", 
+            "Kadugannawa", 
+            "Madawala Bazaar", 
+            "Nawalapitiya", 
+            "Pilimatalawa", 
+            "Wattegama"
+        ]
+    },
+    "Kegalle": {
+        "cities": [
+            "Kegalle", 
+            "Mawanella", 
+            "Warakapola", 
+            "Rambukkana", 
+            "Ruwanwella",
+            "Dehiowita", 
+            "Deraniyagala", 
+            "Galigamuwa", 
+            "Kitulgala", 
+            "Yatiyantota"
+        ]
+    }, 
+    "Kilinochchi": {
+        "cities": [
+            "Kilinochchi"
+        ]
+    },
+    "Kurunegala": {
+        "cities": [
+            "Kurunegala", 
+            "Kuliyapitiya", 
+            "Narammala", 
+            "Pannala", 
+            "Mawathagama",
+            "Alawwa", 
+            "Bingiriya", 
+            "Galgamuwa", 
+            "Giriulla", 
+            "Hettipola", 
+            "Ibbagamuwa", 
+            "Nikaweratiya", 
+            "Polgahawela", 
+            "Wariyapola"
+        ]
+    },
+    "Mannar": {
+        "cities": [
+            "Mannar"
+        ]
+    },
+    "Matale": {
+        "cities": [
+            "Matale", 
+            "Dambulla", 
+            "Galewela", 
+            "Ukuwela", 
+            "Rattota",
+            "Palapathwela", 
+            "Sigiriya", 
+            "Yatawatta"
+        ]
+    }, 
+    "Matara": {
+        "cities": [
+            "Matara", 
+            "Akuressa", 
+            "Weligama", 
+            "Dikwella", 
+            "Hakmana",
+            "Deniyaya", 
+            "Kamburugamuwa", 
+            "Kamburupitiya", 
+            "Kekanadurra"
+        ]
+    },
+    "Monaragala": {
+        "cities": [
+            "Moneragala", 
+            "Buttala", 
+            "Wellawaya", 
+            "Bibile", 
+            "Kataragama"
+        ]
+    }, 
+    "Mullativu": {
+        "cities": [
+            "Mullativu"
+        ]
+    },
+    "Nuwara Eliya": {
+        "cities": [
+            "Nuwara Eliya", 
+            "Hatton", 
+            "Ginigathena", 
+            "Madulla"
+        ]
+    },
+    "Polonnaruwa": {
+        "cities": [
+            "Polonnaruwa", 
+            "Hingurakgoda", 
+            "Kaduruwela", 
+            "Medirigiriya"
+        ]
+    },
+    "Puttalam": {
+        "cities": [
+            "Chilaw", 
+            "Wennappuwa", 
+            "Puttalam", 
+            "Nattandiya", 
+            "Marawila",
+            "Dankotuwa"
+        ]
+    },
+    "Ratnapura": {
+        "cities": [
+            "Ratnapura", 
+            "Embilipitiya", 
+            "Balangoda", 
+            "Pelmadulla", 
+            "Eheliyagoda",
+            "Kuruwita"
+        ]
+    },
+    "Trincomalee": {
+        "cities": [
+            "Trincomalee", 
+            "Kinniya"
+        ]
+    },
+    "Vavuniya": {
+        "cities": [
+            "Vavuniya"
+        ]
+    }
+
+}
