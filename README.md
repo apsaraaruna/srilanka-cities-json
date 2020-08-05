@@ -1,4 +1,4 @@
-# Sri Lanka Districts Cities Database ##
+# Sri Lanka Districts Cities Json ##
 
 ### About
 
