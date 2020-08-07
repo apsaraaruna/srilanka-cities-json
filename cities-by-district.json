@@ -62,9 +62,9 @@
             "Wadinagala",
             "Wanagamuwa",
             "Werunketagoda"
-        ]
-    },
-    "Anuradhapura":{
+      ]
+  },
+  "Anuradhapura":{
         "cities":[
             "Andiyagala",
             "Angamuwa",
@@ -195,9 +195,9 @@
             "Walahaviddawewa",
             "Welimuwapotana",
             "Welioya Project"
-        ]
-    },
-    "Badulla":{
+      ]
+  },
+  "Badulla":{
         "cities":[
             "Akkarasiyaya",
             "Aluketiyawa",
@@ -331,9 +331,9 @@
             "Wineethagama",
             "Yalagamuwa",
             "Yalwela"
-        ]
-    },
-    "Batticaloa":{
+      ]
+  },
+  "Batticaloa":{
         "cities":[
             "Ampilanthurai",
             "Araipattai",
@@ -381,9 +381,9 @@
             "Valaichenai",
             "Vantharumoolai",
             "Vellavely"
-        ]
-    },
-    "Colombo":{
+      ]
+  },
+  "Colombo":{
         "cities":[
             "Colombo 01",
             "Colombo 02",
@@ -465,9 +465,9 @@
             "Waga",
             "Watareka",
             "Wijerama"
-        ]
-    },
-    "Galle":{
+      ]
+  },
+  "Galle":{
         "cities":[
             "Agaliya",
             "Ahangama",
@@ -564,9 +564,9 @@
             "Weihena",
             "Yakkalamulla",
             "Yatalamatta"
-        ]
-    },
-    "Gampaha":{
+      ]
+  },
+  "Gampaha":{
         "cities":[
             "Akaragama",
             "Alawala",
@@ -693,9 +693,9 @@
             "Weliveriya",
             "Weweldeniya",
             "Yakkala"
-        ]
-    },
-    "Hambantota":{
+      ]
+  },
+  "Hambantota":{
         "cities":[
             "Ambalantota",
             "Angunakolapelessa",
@@ -761,9 +761,9 @@
             "Wekandawela",
             "Weligatta",
             "Yatigala"
-        ]
-    },
-    "Jaffna":{
+      ]
+  },
+  "Jaffna":{
         "cities":[
             "Allaipiddi",
             "Allaveddi",
@@ -815,9 +815,9 @@
             "Varany",
             "Vasavilan",
             "Velanai"
-        ]
-    },
-    "Kalutara":{
+      ]
+  },
+  "Kalutara":{
         "cities":[
             "Agalawatta",
             "Alubomulla",
@@ -900,9 +900,9 @@
             "Yagirala",
             "Yatadolawatta",
             "Yatawara Junction"
-        ]
-    },
-    "Kandy":{
+      ]
+  },
+  "Kandy":{
         "cities":[
             "Akurana",
             "Alawatugoda",
@@ -1069,7 +1069,7 @@
             "Wilanagama",
             "Yahalatenna",
             "Yatihalagala"
-        ]
+      ]
 },
 "Kegalle":{
     "cities":[
@@ -1171,12 +1171,12 @@
         "Yatapana",
         "Yatiyantota",
         "Yattogoda"
-    ]
+  ]
 },
 "Kilinochchi":{
     "cities":[
         "Kilinochchi"
-    ]
+  ]
 },
 "Kurunegala":{
     "cities":[
@@ -1381,7 +1381,7 @@
         "Wewagama",
         "Yakwila",
         "Yatigaloluwa"
-    ]
+  ]
 },
 "Mannar":{
     "cities":[
@@ -1411,7 +1411,7 @@
         "Vankalai",
         "Vellan Kulam",
         "Vidataltivu"
-    ]
+  ]
 },
 "Matale":{
     "cities":[
@@ -1486,7 +1486,7 @@
         "Wewalawewa",
         "Wilgamuwa",
         "Yatawatta"
-    ]
+  ]
 },
 "Matara":{
     "cities":[
@@ -1567,7 +1567,7 @@
         "Weligama",
         "Wilpita",
         "Yatiyana"
-    ]
+  ]
 },
 "Monaragala":{
     "cities":[
@@ -1629,7 +1629,7 @@
         "Weherayaya Handapanagala",
         "Wellawaya",
         "Wilaoya"
-    ]
+  ]
 },
 "Mullativu":{
     "cities":[
@@ -1650,7 +1650,7 @@
         "Vavunakkulam",
         "Visvamadukulam",
         "Yogapuram"
-    ]
+  ]
 },
 "Nuwara Eliya":{
     "cities":[
@@ -1724,7 +1724,7 @@
         "Watawala",
         "Widulipura",
         "Wijebahukanda"
-    ]
+  ]
 },
 "Polonnaruwa":{
     "cities":[
@@ -1790,7 +1790,7 @@
         "Wijayabapura",
         "Yodaela",
         "Yudaganawa"
-    ]
+  ]
 },
 "Puttalam":{
     "cities":[
@@ -1875,7 +1875,7 @@
         "Wijeyakatupotha",
         "Wilpotha",
         "Yogiyana"
-    ]
+  ]
 },
 "Ratnapura":{
     "cities":[
@@ -1997,7 +1997,7 @@
         "Welipathayaya",
         "Wewelwatta",
         "Wikiliya"
-    ]
+  ]
 },
 "Trincomalee":{
     "cities":[
@@ -2040,7 +2040,7 @@
         "Trincomalee",
         "Vellamanal",
         "Wanela"
-    ]
+  ]
 },
 "Vavuniya":{
     "cities":[
@@ -2087,6 +2087,6 @@
         "Varikkuttiyoor",
         "Veravil",
         "Vinayagapuram"
-    ]
+  ]
 }
 }
