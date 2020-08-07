@@ -761,7 +761,7 @@
       {
             "city":"Welioya Project",     
             "code":"50586"
-      },
+      }
 ],
 "Badulla":[
       {
@@ -1292,189 +1292,189 @@
       {
             "city":"Yalwela",
             "code":"90706"
-      },
+      }
 ],
 "Batticaloa":[
       {
             "city":"Ampilanthurai",
             "code":"30162"
-      }
+      },
       {
             "city":"Araipattai",
             "code":"30150"
-      }
+      },
       {
             "city":"Ayithiyamalai",
             "code":"30362"
-      }
+      },
       {
             "city":"Bakiella",
             "code":"30206"
-      }
+      },
       {
             "city":"Batticaloa",
             "code":"30000"
-      }
+      },
       {
             "city":"Cheddipalayam",
             "code":"30194"
-      }
+      },
       {
             "city":"Chenkaladi",
             "code":"30350"
-      }
+      },
       {
             "city":"Eravur",
             "code":"30300"
-      }
+      },
       {
             "city":"Kalkudah",
             "code":"30410"
-      }
+      },
       {
             "city":"Kallar",
             "code":"30250"
-      }
+      },
       {
             "city":"Kaluwanchikudi",
             "code":"30200"
-      }
+      },
       {
             "city":"Kaluwankemy",
             "code":"30372"
-      }
+      },
       {
             "city":"Kannankudah",
             "code":"30016"
-      }
+      },
       {
             "city":"Karadiyanaru",
             "code":"30354"
-      }
+      },
       {
             "city":"Kathiraveli",
             "code":"30456"
-      }
+      },
       {
             "city":"Kattankudi",
             "code":"30100"
-      }
+      },
       {
             "city":"Kiran",
             "code":"30394"
-      }
+      },
       {
             "city":"Kirankulam",
             "code":"30159"
-      }
+      },
       {
             "city":"Koddaikallar",
             "code":"30249"
-      }
+      },
       {
             "city":"Kokkaddichcholai",
             "code":"30160"
-      }
+      },
       {
             "city":"Kurukkalmadam",
             "code":"30192"
-      }
+      },
       {
             "city":"Mandur",
             "code":"30220"
-      }
+      },
       {
             "city":"Mankemi",
             "code":"30442"
-      }
+      },
       {
             "city":"Miravodai",
             "code":"30426"
-      }
+      },
       {
             "city":"Murakottanchanai",
             "code":"30392"
-      }
+      },
       {
             "city":"Navagirinagar",
             "code":"30238"
-      }
+      },
       {
             "city":"Navatkadu",
             "code":"30018"
-      }
+      },
       {
             "city":"Oddamavadi",
             "code":"30420"
-      }
+      },
       {
             "city":"Panichankemi",
             "code":"30444"
-      }
+      },
       {
             "city":"Pankudavely",
             "code":"30352"
-      }
+      },
       {
             "city":"Periyaporativu",
             "code":"30230"
-      }
+      },
       {
             "city":"Periyapullumalai",
             "code":"30358"
-      }
+      },
       {
             "city":"Pillaiyaradi",
             "code":"30022"
-      }
+      },
       {
             "city":"Punanai",
             "code":"30428"
-      }
+      },
       {
             "city":"Puthukudiyiruppu",
             "code":"30158"
-      }
+      },
       {
             "city":"Thannamunai",
             "code":"30024"
-      }
+      },
       {
             "city":"Thettativu",
             "code":"30196"
-      }
+      },
       {
             "city":"Thikkodai",
             "code":"30236"
-      }
+      },
       {
             "city":"Thirupalugamam",
             "code":"30234"
-      }
+      },
       {
             "city":"Thuraineelavanai",
             "code":"30254"
-      }
+      },
       {
             "city":"Unnichchai",
             "code":"30364"
-      }
+      },
       {
             "city":"Vakaneri",
             "code":"30424"
-      }
+      },
       {
             "city":"Vakarai",
             "code":"30450"
-      }
+      },
       {
             "city":"Valaichenai",
             "code":"30400"
-      }
+      },
       {
             "city":"Vantharumoolai",
             "code":"30376"
-      }
+      },
       {
             "city":"Vellavely",
             "code":"30204"
@@ -1800,7 +1800,7 @@
       {
             "city":"Wijerama",
             "code":"10250"
-      },
+      }
 ],
 "Galle":[
       {
@@ -2174,7 +2174,7 @@
       {
             "city":"Yatalamatta",
             "code":"80107"
-      },
+      }
 ],
 "Gampaha":[
       {"city":"Akaragama",
@@ -2675,7 +2675,7 @@
       {
             "city":"Yakkala",
             "code":"11870"
-      },
+      }
 ],
 "Hambantota":[
       {
@@ -2933,7 +2933,7 @@
       {
             "city":"Yatigala",
             "code":"82418"
-      },
+      }
 ],
 "Jaffna":[
       {
@@ -3135,7 +3135,7 @@
       {
             "city":"Velanai",
             "code":"40000"
-      },
+      }
 ],
 "Kalutara":[
       {
@@ -3461,7 +3461,7 @@
       {
             "city":"Yatawara Junction",
             "code":"12006"
-      },
+      }
 ],
 "Kandy":[
       {
@@ -4123,7 +4123,7 @@
       {
             "city":"Yatihalagala",
             "code":"20034"
-      },
+      }
 ],
 "Kegalle":[
       {
@@ -4517,7 +4517,7 @@
       {
             "city":"Yattogoda",
             "code":"71029"
-      },
+      }
 ],
 "Kilinochchi":[
       {
@@ -5329,7 +5329,7 @@
       {
             "city":"Yatigaloluwa",
             "code":"60314"
-      },
+      }
 ],
 "Mannar":[
       {
@@ -5435,7 +5435,7 @@
       {
             "city":"Vidataltivu",
             "code":"41000"
-      },
+      }
 ],
 "Matale":[
       {
@@ -5721,7 +5721,7 @@
       {
             "city":"Yatawatta",
             "code":"21056"
-      },
+      }
 ],
 "Matara":[
       {
@@ -6031,7 +6031,7 @@
       {
             "city":"Yatiyana",
             "code":"81034"
-      },
+      }
 ],
 "Monaragala":[
       {
@@ -6265,7 +6265,7 @@
       {
             "city":"Wilaoya",
             "code":"91022"
-      },
+      }
 ],
 "Mullativu":[
       {
@@ -6335,7 +6335,7 @@
       {
             "city":"Yogapuram",
             "code":"42000"
-      },
+      }
 ],
 "Nuwara Eliya":[
       {
@@ -6617,7 +6617,7 @@
       {
             "city":"Wijebahukanda",
             "code":"22018"
-      },
+      }
 ],
 "Polonnaruwa":[
       {
@@ -6867,7 +6867,7 @@
       {
             "city":"Yudaganawa",
             "code":"51424"
-      },
+      }
 ],
 "Puttalam":[
       {
@@ -7193,7 +7193,7 @@
       {
             "city":"Yogiyana",
             "code":"61144"
-      },
+      }
 ],
 "Ratnapura":[
       {
@@ -7667,7 +7667,7 @@
       {
             "city":"Wikiliya",
             "code":"70114"
-      },
+      }
 ],
 "Trincomalee":[
       {
@@ -7825,7 +7825,7 @@
       {
             "city":"Wanela",
             "code":"31308"
-      },
+      }
 ],
 "Vavuniya":[
       {
@@ -7999,7 +7999,7 @@
       {
             "city":"Vinayagapuram",
             "code":"43000"
-      },
+      }
 ]
 
 }
